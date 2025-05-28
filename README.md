@@ -44,9 +44,6 @@ Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo
 
 </p>
 
-<br/>
-<br/>
-
 ---
 
 ### 📊 Estatísticas
