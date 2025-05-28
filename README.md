@@ -48,10 +48,9 @@ Minhas experiências profissionais são diversas e me permitiram desenvolver um 
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
     src="https://github-readme-stats.vercel.app/api?username=murilopoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
