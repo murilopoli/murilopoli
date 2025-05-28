@@ -55,7 +55,7 @@ Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=murilopoli&theme=tokyonight" 
   />
@@ -63,7 +63,7 @@ Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopoli&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
