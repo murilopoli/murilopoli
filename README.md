@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Murilo Poli Caromano
 
-**`Graduando em Ciência da Computação | Desenvolvedor de Software & Cloud`**
+**`Graduando em Ciência da Computação | Desenvolvedor Fullstack & Cloud`**
 
 Sou Murilo Poli Caromano, um entusiasta por computadores desde pequeno. Meu primeiro contato com o mundo da programação foi a partir de ferramentas para criação de jogos, e desenvolvi um forte domínio em manipulação e manutenção de hardware. Possuo capacidades de gestão de grupo e de projetos, além de um grande interesse por novas tecnologias e metodologias.
 
