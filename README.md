@@ -45,7 +45,7 @@ Minhas experiências profissionais são diversas e me permitiram desenvolver um 
 ---
 
 ### 📊 Estatísticas
-<br/>
+
 <p>
   <img 
     align="left" 
