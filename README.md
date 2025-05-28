@@ -58,7 +58,7 @@ Minhas experiências profissionais são diversas e me permitiram desenvolver um 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopoli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
