@@ -24,12 +24,13 @@ Minhas experiências profissionais são diversas e me permitiram desenvolver um 
         />
     </a>
 </p>
+<br/>
+<br/>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-Minhas principais linguagens e ferramentas incluem:
 <img align="left" alt="C/C++" title="C/C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -40,9 +41,11 @@ Minhas principais linguagens e ferramentas incluem:
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="Oracle Cloud" title="Oracle Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -57,5 +60,3 @@ Minhas principais linguagens e ferramentas incluem:
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopoli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
