@@ -3,7 +3,8 @@
 **`Graduando em Ciência da Computação | Desenvolvedor de Software & Cloud`**
 
 Sou Murilo Poli Caromano, um entusiasta por computadores desde pequeno. Meu primeiro contato com o mundo da programação foi a partir de ferramentas para criação de jogos, e desenvolvi um forte domínio em manipulação e manutenção de hardware. Possuo capacidades de gestão de grupo e de projetos, além de um grande interesse por novas tecnologias e metodologias.
-Atualmente, sou Bacharel em Ciência da Computação pela Universidade Federal de Itajubá (UNIFEI), com conclusão prevista para dezembro de 2025. Ao longo da minha jornada, obtive certificações importantes, como o Curso WordPress Definitivo (concluído em março de 2024), a Trilha Marketing Digital Sebrae (concluída em maio de 2024) e o Certificado em Métricas do Google Ads (concluído em maio de 2024). Minhas habilidades linguísticas incluem Inglês avançado e Espanhol intermediário[cite: 5].
+
+Atualmente, sou Bacharel em Ciência da Computação pela Universidade Federal de Itajubá (UNIFEI), com conclusão prevista para dezembro de 2025. Ao longo da minha jornada, obtive certificações importantes, como o Curso WordPress Definitivo (concluído em março de 2024), a Trilha Marketing Digital Sebrae (concluída em maio de 2024) e o Certificado em Métricas do Google Ads (concluído em maio de 2024). Minhas habilidades linguísticas incluem Inglês avançado e Espanhol intermediário.
 <br/>
 <p align="left">
     <a href="https://github.com/murilopoli?tab=repositories">
