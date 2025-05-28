@@ -9,20 +9,20 @@ Atualmente, sou Bacharel em Ciência da Computação pela Universidade Federal d
 Minhas experiências profissionais são diversas e me permitiram desenvolver um perfil técnico e versátil. Na Câmara Municipal de Itajubá (janeiro/2021 - dezembro/2021), meu foco foi em segurança de redes, suporte técnico e resolução de problemas com eficiência. Na FOCATECH (janeiro/2022 - dezembro/2022), atuei em TI, desenvolvimento web, gestão de redes e nuvem, suporte técnico e vendas, com foco em metodologias Agile e segurança de sistemas. Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo desenvolvimento de websites e e-commerces, integração de APIs e contato direto com clientes, transformando suas necessidades em soluções inovadoras e eficazes. Mais recentemente, na NOVO DIA SOLUÇÕES EM ENERGIA (janeiro/2022 - junho/2024), atuei com DevOps, Agile e atendimento ao cliente, otimizando processos e infraestruturas da empresa, com foco em eficiência, inovação e aprendizado contínuo.
 
 <p align="left">
-    <a href="https://github.com/murilopoli?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/murilopoli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/murilopoli?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/murilopoli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://github.com/murilopoli?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/murilopoli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/murilopoli?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/murilopoli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
