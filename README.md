@@ -32,15 +32,15 @@ Minhas experiências profissionais são diversas e me permitiram desenvolver um 
 Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo desenvolvimento de websites e e-commerces, integração de APIs e contato direto com clientes, transformando suas necessidades em soluções inovadoras e eficazes. Mais recentemente, na NOVO DIA SOLUÇÕES EM ENERGIA (janeiro/2022 - junho/2024), atuei com DevOps, Agile e atendimento ao cliente, otimizando processos e infraestruturas da empresa, com foco em eficiência, inovação e aprendizado contínuo.
 
 <p align="center">
-<img alt="C/C++" title="C/C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img alt="Node.JS" title="Node.JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img alt="WordPress" title="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
-<img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img alt="Oracle Cloud" title="Oracle Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+<img alt="C/C++" title="C/C++" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img alt="Node.JS" title="Node.JS" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img alt="WordPress" title="WordPress" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
+<img alt="HTML" title="HTML" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS" title="CSS" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="Oracle Cloud" title="Oracle Cloud" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
 
 </p>
 
@@ -53,7 +53,7 @@ Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
@@ -61,7 +61,7 @@ Em seguida, na YELLS T.I (fevereiro/2023 - dezembro/2023), fui responsável pelo
   />
 
 <img 
-      align="center" 
+      align="left" 
       alt="GitHub Stats" 
       height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopoli&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
